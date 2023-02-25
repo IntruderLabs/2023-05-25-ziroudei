@@ -1,4 +1,4 @@
-# IntruderLabs ZurouDei Project
+# IntruderLabs ZirouDei Project
 Date: 2023-05-25
 
 Discoverer: Alan Lacerda (ifundef)
