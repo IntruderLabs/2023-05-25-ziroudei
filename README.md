@@ -1,6 +1,8 @@
 # IntruderLabs ZurouDei Project
 Date: 2023-05-25
+
 Discoverer: Alan Lacerda (ifundef)
+
 Exploit Coder: Alan Lacerda (ifundef) | Yueslly Lisbooa (0xC4CTU$)
 
 ## Vulnerability
